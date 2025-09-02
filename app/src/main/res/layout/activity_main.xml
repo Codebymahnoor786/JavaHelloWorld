@@ -11,7 +11,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#D30000"
-        android:text="child 1"/>
+        android:text="child 1"
+        android:layout_centerInParent="true"/>
 
     <Button
         android:layout_width="121dp"
