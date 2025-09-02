@@ -12,6 +12,21 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:src="@drawable/contact_us"/>
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/About"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/AboutUs"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="12"
+            android:inputType="text"
+            android:hint="Enter Your Name"/>
+"
 </LinearLayout>

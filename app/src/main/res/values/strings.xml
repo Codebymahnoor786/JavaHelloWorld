@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">firstandroidproject</string>
+    <string name="About">About_page</string>
+    <string name="AboutUs">WsCube Tech was establish in the year 2010 , with an aim to become the fatest emerging offshore</string>
 </resources>
