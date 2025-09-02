@@ -21,6 +21,7 @@
         android:backgroundTint="#D3ccc0"
         android:text="child 2"
         android:layout_toLeftoF="@+id/btnchild1"
-        android:layout_centerVertical="true"/>
+        android:layout_centerVertical="true"
+        android:layout_above="@+id/btnchild1"/>
 
 </RelativeLayout>
